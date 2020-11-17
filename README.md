@@ -1,4 +1,4 @@
 # stepik-auto-tests-course
 Курс по Selenium
 
-stepik.ru yes yes
+stepik.ru yes yes yes
